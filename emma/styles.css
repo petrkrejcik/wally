@@ -1,0 +1,112 @@
+body {
+
+}
+
+.wrap {
+	position: relative;
+}
+
+#elena {
+	position: absolute;
+	left: 1941px;
+	top: 948px;
+	width: 26px;
+	-webkit-transform: rotate(31deg);
+}
+
+#tata {
+	position: absolute;
+	left: 1455px;
+	top: 1113px;
+	width: 28px;
+}
+
+#ja {
+	position: absolute;
+	left: 2379px;
+	top: 534px;
+	width: 21px;
+	transform: rotate(-9deg);
+}
+
+#mama {
+	position: absolute;
+	left: 1449px;
+	top: 527px;
+	width: 28px;
+	-webkit-transform: rotate(-15deg);
+}
+
+#mata {
+	position: absolute;
+	left: 187px;
+	top: 1282px;
+	width: 38px;
+	-webkit-transform: rotate(-29deg);
+	-webkit-transform: scaleX(-1);
+	transform: rotate(40deg) scaleX(-1);
+}
+
+#ruza {
+	position: absolute;
+	left: 5px;
+	top: 481px;
+	width: 27px;
+	-webkit-transform: rotate(7deg);
+}
+
+#ivo {
+	position: absolute;
+	left: 963px;
+	top: 558px;
+	width: 27px;
+	-webkit-transform: rotate(24deg);
+}
+
+#david {
+	position: absolute;
+	left: 2453px;
+	top: 1085px;
+	width: 32px;
+	-webkit-transform: rotate(12deg);
+}
+
+#segra {
+	position: absolute;
+	left: 1254px;
+	top: 976px;
+	width: 27px;
+	-webkit-transform: rotate(-8deg);
+}
+
+#ondra {
+	position: absolute;
+	left: 2302px;
+	top: 1242px;
+	width: 26px;
+	-webkit-transform: rotate(-14deg);
+}
+
+#emma {
+	position: absolute;
+	left: 941px;
+	top: 1196px;
+	width: 37px;
+	-webkit-transform: rotate(0deg);
+}
+
+#marek {
+	position: absolute;
+	left: 1489px;
+	top: 729px;
+	width: 24px;
+	-webkit-transform: rotate(-8deg);
+}
+
+#julie {
+	position: absolute;
+	left: 1639px;
+	top: 847px;
+	width: 24px;
+	-webkit-transform: rotate(-8deg);
+}
